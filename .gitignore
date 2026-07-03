@@ -1,0 +1,10 @@
+# Dados de runtime (gerados pelo sistema em execução)
+dados/*.json
+
+# Editor e SO
+.vscode/
+*.DS_Store
+Thumbs.db
+
+# Logs PHP
+*.log
